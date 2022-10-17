@@ -1,6 +1,10 @@
 # M1-S02-DEVinPhilips
 ## Exercícios da segunda semana da DEVin[Philips].
 
+<p>Visualize o exercício 
+    <a href="https://pedrolaraburu.github.io/M1-S02-DEVinPhilips/">aqui</a>
+</p>
+
 ## Exercício 1
 Para armazenar os exercícios da semana você deve criar um repositório em seu GitHub.
 - Criar o repositório remoto;
